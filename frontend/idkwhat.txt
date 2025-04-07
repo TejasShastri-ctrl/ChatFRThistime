@@ -1,0 +1,21 @@
+Stuff used in the project:
+cloudinary
+redux
+think middlewre
+react-redux
+
+react-router-dom
+
+tailwind css
+mui
+react icons
+
+npm install @mui/material @emotion/react @emotion styled - MUI command
+wtf is z index?
+
+see part before 46:00 of vid-2. VERY important
+
+Go over the status code and interrelations very thoroughly. Important.
+
+npm install @stomp/stompjs - stompclient needs a separate module for browser compatibility and one of the most interesting things that I have done is that instead of using your behavior
+is atrocious and it shall be punished when the king returns. Heresy is not taken lightly by the king

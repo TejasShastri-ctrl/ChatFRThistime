@@ -1,0 +1,4 @@
+Took me 3 fuckin days to get why the fuck authorization was not working
+INvalid token received and I tweaked the user service a bit(small mistake) and removed Bearer from the request because
+it was not removing Bearer for some reason I guess? Very weird error and even IDK what worked
+
